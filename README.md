@@ -44,7 +44,7 @@
 
 ### 📱 Mobile Development
 <p>
-  <img src="https://skillicons.dev/icons?i=android,kotlin,firebase" />
+  <img src="https://skillicons.dev/icons?i=android,flutter,firebase" />
 </p>
 
 ### 🌐 Web Development
