@@ -35,6 +35,29 @@
 - VS Code
 
 ---
+## 🛠️ Technologies & Tools
+
+### 👨‍💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript" />
+</p>
+
+### 📱 Mobile Development
+<p>
+  <img src="https://skillicons.dev/icons?i=android,kotlin,firebase" />
+</p>
+
+### 🌐 Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,php,mysql" />
+</p>
+
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" />
+</p>
+
+---
 
 ## 📂 Projects
 - 📱 **Android Applications** – tap game, geofencing, notifications
